@@ -8,5 +8,5 @@ use Illuminate\Http\Request;
 
 class StudentController extends Controller
 {
-
+   public 
 }
